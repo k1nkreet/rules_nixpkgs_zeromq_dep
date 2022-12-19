@@ -1,0 +1,176 @@
+       327:	
+       327:	file=libzmq.so.5 [0];  needed by ./bazel-bin/zmq_example [0]
+       327:	find library=libzmq.so.5 [0]; searching
+       327:	 search path=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/tls/haswell/x86_64:/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/tls/haswell:/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/tls/x86_64:/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/tls:/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/haswell/x86_64:/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/haswell:/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/x86_64:/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib		(RUNPATH from file ./bazel-bin/zmq_example)
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/tls/haswell/x86_64/libzmq.so.5
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/tls/haswell/libzmq.so.5
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/tls/x86_64/libzmq.so.5
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/tls/libzmq.so.5
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/haswell/x86_64/libzmq.so.5
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/haswell/libzmq.so.5
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/x86_64/libzmq.so.5
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5
+       327:	
+       327:	file=libzmq.so.5 [0];  generating link map
+       327:	  dynamic: 0x00007f5c26f1a708  base: 0x00007f5c26e34000   size: 0x00000000000e9058
+       327:	    entry: 0x00007f5c26e34000  phdr: 0x00007f5c26e34040  phnum:                 10
+       327:	
+       327:	
+       327:	file=libstdc++.so.6 [0];  needed by ./bazel-bin/zmq_example [0]
+       327:	find library=libstdc++.so.6 [0]; searching
+       327:	 search path=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib		(RUNPATH from file ./bazel-bin/zmq_example)
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libstdc++.so.6
+       327:	 search cache=/etc/ld.so.cache
+       327:	  trying file=/usr/lib/x86_64-linux-gnu/libstdc++.so.6
+       327:	
+       327:	file=libstdc++.so.6 [0];  generating link map
+       327:	  dynamic: 0x00007f5c26cefd28  base: 0x00007f5c2696e000   size: 0x0000000000388040
+       327:	    entry: 0x00007f5c269fa490  phdr: 0x00007f5c2696e040  phnum:                  8
+       327:	
+       327:	
+       327:	file=libm.so.6 [0];  needed by ./bazel-bin/zmq_example [0]
+       327:	find library=libm.so.6 [0]; searching
+       327:	 search path=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib		(RUNPATH from file ./bazel-bin/zmq_example)
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libm.so.6
+       327:	 search cache=/etc/ld.so.cache
+       327:	  trying file=/lib/x86_64-linux-gnu/libm.so.6
+       327:	
+       327:	file=libm.so.6 [0];  generating link map
+       327:	  dynamic: 0x00007f5c2696cd90  base: 0x00007f5c265d0000   size: 0x000000000039d158
+       327:	    entry: 0x00007f5c265dba80  phdr: 0x00007f5c265d0040  phnum:                  7
+       327:	
+       327:	
+       327:	file=libc.so.6 [0];  needed by ./bazel-bin/zmq_example [0]
+       327:	find library=libc.so.6 [0]; searching
+       327:	 search path=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib		(RUNPATH from file ./bazel-bin/zmq_example)
+       327:	  trying file=/root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libc.so.6
+       327:	 search cache=/etc/ld.so.cache
+       327:	  trying file=/lib/x86_64-linux-gnu/libc.so.6
+       327:	
+       327:	file=libc.so.6 [0];  generating link map
+       327:	  dynamic: 0x00007f5c265c9b80  base: 0x00007f5c261df000   size: 0x00000000003f0ae0
+       327:	    entry: 0x00007f5c26200da0  phdr: 0x00007f5c261df040  phnum:                 10
+       327:	
+       327:	
+       327:	file=libsodium.so.23 [0];  needed by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	find library=libsodium.so.23 [0]; searching
+       327:	 search path=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/tls/haswell/x86_64:/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/tls/haswell:/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/tls/x86_64:/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/tls:/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/haswell/x86_64:/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/haswell:/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/x86_64:/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls/haswell/x86_64:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls/haswell:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls/x86_64:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/haswell/x86_64:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/haswell:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/x86_64:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls/haswell/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls/haswell:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/haswell/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/haswell:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib		(RUNPATH from file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5)
+       327:	  trying file=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/tls/haswell/x86_64/libsodium.so.23
+       327:	  trying file=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/tls/haswell/libsodium.so.23
+       327:	  trying file=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/tls/x86_64/libsodium.so.23
+       327:	  trying file=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/tls/libsodium.so.23
+       327:	  trying file=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/haswell/x86_64/libsodium.so.23
+       327:	  trying file=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/haswell/libsodium.so.23
+       327:	  trying file=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/x86_64/libsodium.so.23
+       327:	  trying file=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23
+       327:	
+       327:	file=libsodium.so.23 [0];  generating link map
+       327:	  dynamic: 0x00007f5c26e2e790  base: 0x00007f5c26dd4000   size: 0x000000000005b408
+       327:	    entry: 0x00007f5c26dd4000  phdr: 0x00007f5c26dd4040  phnum:                 12
+       327:	
+       327:	
+       327:	file=librt.so.1 [0];  needed by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	find library=librt.so.1 [0]; searching
+       327:	 search path=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls/haswell/x86_64:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls/haswell:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls/x86_64:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/haswell/x86_64:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/haswell:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/x86_64:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls/haswell/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls/haswell:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/haswell/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/haswell:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib		(RUNPATH from file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5)
+       327:	  trying file=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/librt.so.1
+       327:	  trying file=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls/haswell/x86_64/librt.so.1
+       327:	  trying file=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls/haswell/librt.so.1
+       327:	  trying file=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls/x86_64/librt.so.1
+       327:	  trying file=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/tls/librt.so.1
+       327:	  trying file=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/haswell/x86_64/librt.so.1
+       327:	  trying file=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/haswell/librt.so.1
+       327:	  trying file=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/x86_64/librt.so.1
+       327:	  trying file=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/librt.so.1
+       327:	
+       327:	file=librt.so.1 [0];  generating link map
+       327:	  dynamic: 0x00007f5c26dd0d98  base: 0x00007f5c26dcd000   size: 0x0000000000004010
+       327:	    entry: 0x00007f5c26dcd000  phdr: 0x00007f5c26dcd040  phnum:                 11
+       327:	
+       327:	
+       327:	file=libgcc_s.so.1 [0];  needed by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	find library=libgcc_s.so.1 [0]; searching
+       327:	 search path=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib:/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls/haswell/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls/haswell:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/tls:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/haswell/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/haswell:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib/x86_64:/nix/store/g9x3cm8wdmpm86pyiff6arx8skmdwkn7-gcc-11.3.0-lib/lib		(RUNPATH from file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5)
+       327:	  trying file=/nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libgcc_s.so.1
+       327:	  trying file=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/libgcc_s.so.1
+       327:	
+       327:	file=libgcc_s.so.1 [0];  generating link map
+       327:	  dynamic: 0x00007f5c26dcbc38  base: 0x00007f5c26db3000   size: 0x00000000000192d0
+       327:	    entry: 0x00007f5c26db62e0  phdr: 0x00007f5c26db3040  phnum:                  8
+       327:	
+       327:	
+       327:	file=libpthread.so.0 [0];  needed by /nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23 [0]
+       327:	find library=libpthread.so.0 [0]; searching
+       327:	 search path=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib		(RUNPATH from file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5)
+       327:	  trying file=/nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/libpthread.so.0
+       327:	
+       327:	file=libpthread.so.0 [0];  generating link map
+       327:	  dynamic: 0x00007f5c26db1dd8  base: 0x00007f5c26dae000   size: 0x0000000000004010
+       327:	    entry: 0x00007f5c26dae000  phdr: 0x00007f5c26dae040  phnum:                 11
+       327:	
+       327:	checking for version `GLIBC_2.2.5' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file ./bazel-bin/zmq_example [0]
+       327:	checking for version `GCC_3.0' in file /nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/libgcc_s.so.1 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBCXX_3.4.20' in file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBCXX_3.4.19' in file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `CXXABI_1.3.2' in file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBCXX_3.4.29' in file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	/usr/lib/x86_64-linux-gnu/libstdc++.so.6: error: version lookup error: version `GLIBCXX_3.4.29' not found (required by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5) (continued)
+./bazel-bin/zmq_example: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.29' not found (required by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5)
+       327:	checking for version `GLIBCXX_3.4.9' in file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBCXX_3.4.11' in file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `CXXABI_1.3' in file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBCXX_3.4.21' in file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBCXX_3.4.15' in file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBCXX_3.4' in file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.3' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.9' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.4' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.7' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.17' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.33' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	/lib/x86_64-linux-gnu/libc.so.6: error: version lookup error: version `GLIBC_2.33' not found (required by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5) (continued)
+./bazel-bin/zmq_example: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5)
+       327:	checking for version `GLIBC_2.14' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.3.4' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.10' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.3.2' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.32' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	/lib/x86_64-linux-gnu/libc.so.6: error: version lookup error: version `GLIBC_2.32' not found (required by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5) (continued)
+./bazel-bin/zmq_example: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.32' not found (required by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5)
+       327:	checking for version `GLIBC_2.34' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	/lib/x86_64-linux-gnu/libc.so.6: error: version lookup error: version `GLIBC_2.34' not found (required by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5) (continued)
+./bazel-bin/zmq_example: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5)
+       327:	checking for version `GLIBC_2.2.5' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /root/.cache/bazel/_bazel_root/eab0d61a99b6696edb3d2aff87b585e8/execroot/__main__/bazel-out/k8-fastbuild/bin/_solib_k8/_U@zeromq_S_S_Czeromq___Ulib/libzmq.so.5 [0]
+       327:	checking for version `GLIBC_2.2.5' in file /lib/x86_64-linux-gnu/libm.so.6 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_2.3' in file /lib64/ld-linux-x86-64.so.2 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GCC_4.2.0' in file /nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/libgcc_s.so.1 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GCC_3.3' in file /nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/libgcc_s.so.1 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GCC_3.0' in file /nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/libgcc_s.so.1 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_2.14' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_2.4' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_2.18' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_2.16' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_2.3' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_2.3.4' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_2.17' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_2.3.2' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_2.2.5' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /usr/lib/x86_64-linux-gnu/libstdc++.so.6 [0]
+       327:	checking for version `GLIBC_PRIVATE' in file /lib64/ld-linux-x86-64.so.2 [0] required by file /lib/x86_64-linux-gnu/libm.so.6 [0]
+       327:	checking for version `GLIBC_2.4' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /lib/x86_64-linux-gnu/libm.so.6 [0]
+       327:	checking for version `GLIBC_2.2.5' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /lib/x86_64-linux-gnu/libm.so.6 [0]
+       327:	checking for version `GLIBC_PRIVATE' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /lib/x86_64-linux-gnu/libm.so.6 [0]
+       327:	checking for version `GLIBC_2.3' in file /lib64/ld-linux-x86-64.so.2 [0] required by file /lib/x86_64-linux-gnu/libc.so.6 [0]
+       327:	checking for version `GLIBC_PRIVATE' in file /lib64/ld-linux-x86-64.so.2 [0] required by file /lib/x86_64-linux-gnu/libc.so.6 [0]
+       327:	checking for version `GLIBC_2.3' in file /lib64/ld-linux-x86-64.so.2 [0] required by file /nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23 [0]
+       327:	checking for version `GLIBC_2.33' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23 [0]
+       327:	/lib/x86_64-linux-gnu/libc.so.6: error: version lookup error: version `GLIBC_2.33' not found (required by /nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23) (continued)
+./bazel-bin/zmq_example: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.33' not found (required by /nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23)
+       327:	checking for version `GLIBC_2.14' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23 [0]
+       327:	checking for version `GLIBC_2.3.4' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23 [0]
+       327:	checking for version `GLIBC_2.4' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23 [0]
+       327:	checking for version `GLIBC_2.25' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23 [0]
+       327:	checking for version `GLIBC_2.2.5' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/0s6mxy78gwhhcdjb3zwa7yy9ah8xfg1z-libsodium-1.0.18/lib/libsodium.so.23 [0]
+       327:	checking for version `GLIBC_2.2.5' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/librt.so.1 [0]
+       327:	checking for version `GLIBC_PRIVATE' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/librt.so.1 [0]
+       327:	checking for version `GLIBC_2.14' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/libgcc_s.so.1 [0]
+       327:	checking for version `GLIBC_2.2.5' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/libgcc_s.so.1 [0]
+       327:	checking for version `GLIBC_2.2.5' in file /lib/x86_64-linux-gnu/libc.so.6 [0] required by file /nix/store/lyl6nysc3i3aqhj6shizjgj0ibnf1pvg-glibc-2.34-210/lib/libpthread.so.0 [0]
