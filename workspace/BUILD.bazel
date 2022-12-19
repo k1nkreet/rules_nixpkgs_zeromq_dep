@@ -1,0 +1,5 @@
+cc_binary(
+    name ="zmq_example",
+    srcs = ["zmq_example.c"],
+    deps = ["@zeromq//:zeromq"],
+)
